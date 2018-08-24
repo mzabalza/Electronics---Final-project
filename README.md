@@ -1,3 +1,5 @@
+work in progress...
+
 # Electronics-Final_project
 
 ## 1 Probot_final_files
@@ -16,6 +18,3 @@
   - Bluetooth
   - LDR
   - Led Matrix
-  
-
-work in progress...
