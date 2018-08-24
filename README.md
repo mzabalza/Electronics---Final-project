@@ -1,5 +1,3 @@
-work in progress...
-
 # Electronics-Final_project
 
 ## 1 Probot_final_files
@@ -11,7 +9,7 @@ work in progress...
 
 ## 2 Test_components
 - PIC32MX340F256H datasheet.
-- C code programms of every functioanlity
+- C code programms of every functioanlity:
   - Motor driver
   - Mux
   - Proximity sensor
@@ -19,3 +17,5 @@ work in progress...
   - LDR
   - Led Matrix
   
+
+work in progress...
