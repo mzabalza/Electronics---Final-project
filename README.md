@@ -1,6 +1,6 @@
-work in progress...
-
 # Electronics-Final_project
+![](/probot_final_files/PCB_communications.png)
+
 
 ## 1. Probot_final_files
 - Project description pdf(Probot_memory_v4).
